@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41089" started-at="2020-11-15T15:12:25 EST" finished-at="2020-11-15T15:13:06 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41089" started-at="2020-11-15T15:12:25 EST" finished-at="2020-11-15T15:13:06 EST">
+      <class name="com.t.qa.testcase.EmailPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="9703" started-at="2020-11-15T15:12:25 EST" finished-at="2020-11-15T15:12:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="emailPageTitleTest()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="emailPageTitleTest" duration-ms="23" started-at="2020-11-15T15:12:35 EST" finished-at="2020-11-15T15:12:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="809" started-at="2020-11-15T15:12:35 EST" finished-at="2020-11-15T15:12:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="8963" started-at="2020-11-15T15:12:35 EST" finished-at="2020-11-15T15:12:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printTitleTest()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="printTitleTest" duration-ms="61" started-at="2020-11-15T15:12:44 EST" finished-at="2020-11-15T15:12:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="694" started-at="2020-11-15T15:12:44 EST" finished-at="2020-11-15T15:12:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="setUp" is-config="true" duration-ms="10463" started-at="2020-11-15T15:12:45 EST" finished-at="2020-11-15T15:12:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signUpEmailTest()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="signUpEmailTest" duration-ms="9625" started-at="2020-11-15T15:12:56 EST" finished-at="2020-11-15T15:13:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpEmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.t.qa.testcase.EmailPageTest@1f7030a6]" name="tearDown" is-config="true" duration-ms="726" started-at="2020-11-15T15:13:05 EST" finished-at="2020-11-15T15:13:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.t.qa.testcase.EmailPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
